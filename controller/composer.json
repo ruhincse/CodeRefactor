@@ -1,0 +1,17 @@
+{
+    "name": "asus/code_refector",
+    "authors": [
+        {
+            "name": "ruhincse",
+            "email": "ruhinm3@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"Files":[
+    		"helper/funtion.php"
+    	]
+    }
+
+
+}
